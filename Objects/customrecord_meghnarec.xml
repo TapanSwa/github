@@ -1,0 +1,13 @@
+<customrecordtype scriptid="customrecord_meghnarec">
+    <description></description>
+    <recordname>sdf record</recordname>
+    <customrecordcustomfields>
+        <customrecordcustomfield scriptid="custrecord_meghnafield">
+            <description></description>
+            <displaytype>NORMAL</displaytype>
+            <fieldtype>TEXT</fieldtype>
+            <label>memo</label>
+            <ismandatory>F</ismandatory>
+        </customrecordcustomfield>
+    </customrecordcustomfields>
+</customrecordtype>
