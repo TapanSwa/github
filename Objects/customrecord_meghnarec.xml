@@ -7,7 +7,7 @@
             <displaytype>NORMAL</displaytype>
             <fieldtype>TEXT</fieldtype>
             <label>memo</label>
-            <ismandatory>F</ismandatory>
+            <ismandatory>T</ismandatory>
         </customrecordcustomfield>
     </customrecordcustomfields>
 </customrecordtype>
